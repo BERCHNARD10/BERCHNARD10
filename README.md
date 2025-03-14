@@ -21,15 +21,12 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 
-### 📊 Estadísticas de GitHub  
-![Tus stats](https://github-readme-stats.vercel.app/api?username=BERCHNARD10&show_icons=true&theme=tokyonight)
-
 <br>
 
 ## Proyectos *bombitas*
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📊;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/BERCHNARD10">
