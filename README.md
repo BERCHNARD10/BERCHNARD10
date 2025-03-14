@@ -87,7 +87,7 @@
   <p><strong>Cazadores de Sombras</strong> es un juego medieval en el que los jugadores se adentran en mundos oscuros y desafiantes, enfrentándose a criaturas míticas y mejorando sus habilidades. Desarrollado con Unity y C#, el juego ofrece una experiencia inmersiva y dinámica. La integración con el SDK de Android permite que el juego sea jugado en dispositivos móviles, brindando una experiencia interactiva y entretenida. Además, se utiliza PHP en el backend para gestionar usuarios y almacenar datos del juego.</p>
 
   <h4>Screenshot</h4>
-  <img src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/image.png" alt="Screenshot" style="max-width: 100%; border: 2px solid #ddd; border-radius: 10px;"/>
+  <img src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/Captura%20de%20pantalla%202025-03-14%20131954.png" alt="Screenshot" style="max-width: 100%; border: 2px solid #ddd; border-radius: 10px;"/>
 
   <h4>Tecnologías utilizadas</h4>
   <div style="text-align: center;">
