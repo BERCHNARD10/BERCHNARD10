@@ -22,7 +22,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 ### 📊 Estadísticas de GitHub  
-![Tus stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
+![Tus stats](https://github-readme-stats.vercel.app/api?username=BERCHNARD10&show_icons=true&theme=tokyonight)
 
 <br>
 
