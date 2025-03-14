@@ -65,17 +65,17 @@
     <h4>Descripción</h4>
     <p>El proyecto UTHH_PRY es una plataforma de educación educativa diseñada para facilitar la creación y gestión de aulas virtuales, permitiendo a los docentes realizar actividades como la creación de materias, gestión de alumnos, asignación de tareas, y la calificación de los estudiantes. Además, incluye la funcionalidad única de generar un concentrado de calificaciones, lo que agiliza el seguimiento y evaluación de los estudiantes..</p>
 
-    <h4>Screenshot</h4>
-    <img src="https://github.com/BERCHNARD10/UTHH_PRY/screenshot.png" alt="Screenshot" style="max-width: 100%; border: 2px solid #ddd; border-radius: 10px;"/>
+  <h4>Screenshot</h4>
+  <img src="https://github.com/BERCHNARD10/UTHH_PRY/screenshot.png" alt="Screenshot" style="max-width: 100%; border: 2px solid #ddd; border-radius: 10px;"/>
 
-    <h4>Tecnologías utilizadas</h4>
-    <div style="text-align: center;">
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white" alt="React" style="margin: 5px;"/>
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" style="margin: 5px;"/>
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" style="margin: 5px;"/>
-      <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=white" alt="Tailwind CSS" style="margin: 5px;"/>
-    </div>
+  <h4>Tecnologías utilizadas</h4>
+  <div style="text-align: center;">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white" alt="React" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=white" alt="Tailwind CSS" style="margin: 5px;"/>
   </div>
+</div>
 
 <br>
 
