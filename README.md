@@ -112,6 +112,7 @@
     <img src="https://img.shields.io/badge/-Laravel-F6533A?style=flat&logo=Laravel&logoColor=white" alt="Laravel" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white" alt="Bootstrap" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript" style="margin: 5px;"/>
   </div>
 </div>
 
