@@ -4,7 +4,27 @@
 🚀 Apasionado por las bases de datos y el desarrollo backend.  
 📫 Contáctame en: [LinkedIn](https://www.linkedin.com/in/tuusuario/) | [Twitter](https://twitter.com/tuusuario)  
 
+
 ### 🚀 Tecnologías y herramientas  
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 700px;">
+  <div style="flex: 1 1 30%; text-align: center;">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white" alt="React"/>
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL"/>
+  </div>
+  <div style="flex: 1 1 30%; text-align: center;">
+    <img src="https://img.shields.io/badge/-Laravel-EF4135?style=flat&logo=Laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white" alt="Oracle"/>
+  </div>
+  <div style="flex: 1 1 30%; text-align: center;">
+    <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=white" alt="Unity"/>
+    <img src="https://img.shields.io/badge/-PL%2FSQL-F80000?style=flat&logo=Oracle&logoColor=white" alt="PL/SQL"/>
+  </div>
+</div>
+
 
 ### 🚀 Tecnologías y herramientas  
 
