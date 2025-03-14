@@ -26,7 +26,7 @@
 ## Proyectos *bombitas*
 <br>
 
-### 📊;GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/BERCHNARD10">
