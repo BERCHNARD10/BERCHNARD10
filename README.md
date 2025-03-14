@@ -1,6 +1,4 @@
-<div align="center">
-<h1 align="center">Hola, soy Bernardino👋</h1>
-</div>
+
 
 <
 <!--
@@ -12,9 +10,20 @@
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 -->
 
-## Sobre mi
+### 👋 ¡Hola! Soy [Bernardino]  
 
-- 📲 Web developer
+💻 Desarrollador web con experiencia en React, Node.js y Python.  
+🚀 Apasionado por la inteligencia artificial y el desarrollo backend.  
+📫 Contáctame en: [LinkedIn](https://www.linkedin.com/in/tuusuario/) | [Twitter](https://twitter.com/tuusuario)  
+
+### 🚀 Tecnologías y herramientas  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+
+### 📊 Estadísticas de GitHub  
+![Tus stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
+
 <br>
 
 ## Proyectos *bombitas*
