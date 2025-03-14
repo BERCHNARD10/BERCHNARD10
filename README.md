@@ -1,6 +1,6 @@
 ### 👋 ¡Hola! Soy [Bernardino]  
 
-💻 Desarrollador web con experiencia en React, Node.js y Python.  
+💻 Desarrollador web con experiencia en React, Node.js y Laravel.  
 🚀 Apasionado por las bases de datos y el desarrollo backend.  
 📫 Contáctame en: [LinkedIn](https://www.linkedin.com/in/tuusuario/) | [Twitter](https://twitter.com/tuusuario)  
 
