@@ -80,6 +80,25 @@
   </div>
 </div>
 
+### Proyecto 2: [Cazadores de Sombras](https://github.com/BERCHNARD10/CazadoresDeSombras)
+
+<div style="text-align: center; padding: 10px;">
+  <h4>Descripción</h4>
+  <p><strong>Cazadores de Sombras</strong> es un juego medieval en el que los jugadores se adentran en mundos oscuros y desafiantes, enfrentándose a criaturas míticas y mejorando sus habilidades. Desarrollado con Unity y C#, el juego ofrece una experiencia inmersiva y dinámica. La integración con el SDK de Android permite que el juego sea jugado en dispositivos móviles, brindando una experiencia interactiva y entretenida. Además, se utiliza PHP en el backend para gestionar usuarios y almacenar datos del juego.</p>
+
+  <h4>Screenshot</h4>
+  <img src="https://github.com/BERCHNARD10/CazadoresDeSombras/screenshot.png" alt="Screenshot" style="max-width: 100%; border: 2px solid #ddd; border-radius: 10px;"/>
+
+  <h4>Tecnologías utilizadas</h4>
+  <div style="text-align: center;">
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white" alt="PHP" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=white" alt="Unity" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white" alt="Android Studio" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=C%23&logoColor=white" alt="C#" style="margin: 5px;"/>
+  </div>
+</div>
+
+
 <br>
 
 <!-- GitHub Analytics -->
