@@ -16,7 +16,7 @@
 </p>
 
 <!-- Sección de Tecnologías -->
-### 🚀 Tecnologías y herramientas  
+### 🛠️ Tecnologías y herramientas
 <div style="max-width: 700px; margin: auto;">
   <!-- Frontend -->
   <h4 style="font-size: 24px; font-weight: bold; color: #4CAF50; text-align: center;">Frontend</h4>
@@ -60,7 +60,7 @@
 <!-- Sección de Proyectos -->
 ## 💣 Proyectos *bombitas* 
 
-### Proyecto 1: [Nombre del Proyecto](https://github.com/BERCHNARD10/UTHH_PRY)
+### Proyecto 1: [Plataforma de Gestión Educativa](https://github.com/BERCHNARD10/UTHH_PRY)
   <div style="text-align: center; padding: 10px;">
     <h4>Descripción</h4>
     <p>Breve descripción del proyecto.</p>
