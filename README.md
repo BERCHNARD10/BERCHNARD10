@@ -58,8 +58,57 @@
 <br>
 
 ## 🚀 Proyectos *bombitas*
-- [Proyecto 1: Nombre del Proyecto](https://github.com/BERCHNARD10/UTHH_PRY): Breve descripción.
-- [Proyecto 2: Nombre del Proyecto](https://github.com/tuusuario/proyecto2): Breve descripción.
+
+## [**Proyecto 1: Nombre del Proyecto**](https://github.com/BERCHNARD10/UTHH_PRY)
+![Imagen del Proyecto 1](https://via.placeholder.com/600x300/0000FF/808080?text=Proyecto+1+Nombre)  
+Breve descripción del proyecto y lo que hace.  
+[Ver el código aquí](https://github.com/BERCHNARD10/UTHH_PRY)
+
+---
+
+## [**Proyecto 2: Nombre del Proyecto**](https://github.com/BERCHNARD10/UTHH_PRY2)
+![Imagen del Proyecto 2](https://via.placeholder.com/600x300/FF5733/FFFFFF?text=Proyecto+2+Nombre)  
+Breve descripción del proyecto y lo que hace.  
+[Ver el código aquí](https://github.com/BERCHNARD10/UTHH_PRY2)
+
+---
+
+# 🚀 Repositorios destacados
+
+| Proyecto | Descripción | Enlace |
+|----------|-------------|--------|
+| ![Proyecto 1](https://via.placeholder.com/150x100/0000FF/808080?text=Proyecto+1) | Breve descripción del proyecto y lo que hace. | [Ver el código](https://github.com/BERCHNARD10/UTHH_PRY) |
+| ![Proyecto 2](https://via.placeholder.com/150x100/FF5733/FFFFFF?text=Proyecto+2) | Breve descripción del proyecto y lo que hace. | [Ver el código](https://github.com/BERCHNARD10/UTHH_PRY2) |
+
+
+# 🚀 Repositorios destacados
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
+  
+  <div style="width: 250px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+    <a href="https://github.com/BERCHNARD10/UTHH_PRY">
+      <img src="https://via.placeholder.com/250x150/0000FF/FFFFFF?text=Proyecto+1" alt="Proyecto 1" style="width: 100%; height: auto; border-bottom: 1px solid #ddd;">
+      <div style="padding: 15px;">
+        <h3>Proyecto 1: Nombre del Proyecto</h3>
+        <p>Breve descripción del proyecto y lo que hace.</p>
+        <p><strong><a href="https://github.com/BERCHNARD10/UTHH_PRY">Ver el código</a></strong></p>
+      </div>
+    </a>
+  </div>
+
+  <div style="width: 250px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+    <a href="https://github.com/BERCHNARD10/UTHH_PRY2">
+      <img src="https://via.placeholder.com/250x150/FF5733/FFFFFF?text=Proyecto+2" alt="Proyecto 2" style="width: 100%; height: auto; border-bottom: 1px solid #ddd;">
+      <div style="padding: 15px;">
+        <h3>Proyecto 2: Nombre del Proyecto</h3>
+        <p>Breve descripción del proyecto y lo que hace.</p>
+        <p><strong><a href="https://github.com/BERCHNARD10/UTHH_PRY2">Ver el código</a></strong></p>
+      </div>
+    </a>
+  </div>
+
+</div>
+
 
 <br>
 
