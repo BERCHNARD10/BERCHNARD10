@@ -2,9 +2,16 @@
   🚀 ¡Hola, soy Bernardino! 👋
 </h1>
 
-💻 Desarrollador web con experiencia en React, Node.js, Laravel y más.  
-🚀 Apasionado por las bases de datos y el desarrollo backend, me encanta crear soluciones eficientes y escalables.
-📫 Contáctame en: [LinkedIn](https://www.linkedin.com/in/tuusuario/) | [Twitter](https://twitter.com/tuusuario)  
+<p style="font-family: 'Arial', sans-serif; font-size: 20px; text-align: center; color: #333; line-height: 1.6; letter-spacing: 0.5px;">
+  💻 <span style="font-weight: bold; color: #4CAF50;">Desarrollador web</span> con experiencia en 
+  <span style="color: #61DAFB; font-weight: bold;">React</span>, 
+  <span style="color: #339933; font-weight: bold;">Node.js</span>, 
+  <span style="color: #EF4135; font-weight: bold;">Laravel</span> y más.<br>
+  🚀 <span style="color: #FF6347; font-weight: bold;">Apasionado</span> por las bases de datos y el desarrollo backend, me encanta crear soluciones eficientes y escalables.<br>
+  📫 <span style="font-weight: bold;">Contáctame en:</span> 
+  <a href="https://www.linkedin.com/in/tuusuario/" style="text-decoration: none; color: #0077B5;">LinkedIn</a> | 
+  <a href="https://twitter.com/tuusuario" style="text-decoration: none; color: #1DA1F2;">Twitter</a>
+</p>
 
 
 ### 🚀 Tecnologías y herramientas  
