@@ -58,7 +58,7 @@
 <br>
 
 ## 🚀 Proyectos *bombitas*
-- [Proyecto 1: Nombre del Proyecto](https://github.com/tuusuario/proyecto1): Breve descripción.
+- [Proyecto 1: Nombre del Proyecto](https://github.com/BERCHNARD10/UTHH_PRY): Breve descripción.
 - [Proyecto 2: Nombre del Proyecto](https://github.com/tuusuario/proyecto2): Breve descripción.
 
 <br>
