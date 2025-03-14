@@ -98,6 +98,23 @@
   </div>
 </div>
 
+### Proyecto 3: [Tienda Online de Chocolate](https://github.com/BERCHNARD10/TiendaChocolate)
+
+<div style="text-align: center; padding: 10px;">
+  <h4>Descripción</h4>
+  <p><strong>Tienda Online de Chocolate</strong> es una tienda de comercio electrónico donde los usuarios pueden explorar una variedad de chocolates, realizar compras en línea y gestionar sus pedidos de forma sencilla.</p>
+
+  <h4>Screenshot</h4>
+  <img src="https://github.com/BERCHNARD10/TiendaChocolate/screenshot.png" alt="Screenshot" style="max-width: 100%; border: 2px solid #ddd; border-radius: 10px;"/>
+
+  <h4>Tecnologías utilizadas</h4>
+  <div style="text-align: center;">
+    <img src="https://img.shields.io/badge/-Laravel-F6533A?style=flat&logo=Laravel&logoColor=white" alt="Laravel" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white" alt="Bootstrap" style="margin: 5px;"/>
+  </div>
+</div>
+
 
 <br>
 
