@@ -74,6 +74,8 @@
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=white" alt="Tailwind CSS" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white" alt="Vite" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" alt="Firebase" style="margin: 5px;"/>
   </div>
 </div>
 
