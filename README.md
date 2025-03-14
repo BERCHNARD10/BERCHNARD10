@@ -17,13 +17,12 @@
 📫 Contáctame en: [LinkedIn](https://www.linkedin.com/in/tuusuario/) | [Twitter](https://twitter.com/tuusuario)  
 
 ### 🚀 Tecnologías y herramientas  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-
-## 📊 GitHub Stats  
-![Tus stats](https://github-readme-stats.vercel.app/api?username=BERCHNARD10&show_icons=true&theme=tokyonight)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=BERCHNARD10&layout=compact&theme=tokyonight)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)  
+![Laravel](https://img.shields.io/badge/-Laravel-EF4135?style=flat&logo=Laravel&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)  
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=white)
 
 
 <br>
