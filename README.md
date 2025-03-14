@@ -1,7 +1,7 @@
 ### 👋 ¡Hola! Soy [Bernardino]  
 
-💻 Desarrollador web con experiencia en React, Node.js y Laravel.  
-🚀 Apasionado por las bases de datos y el desarrollo backend.  
+💻 Desarrollador web con experiencia en React, Node.js, Laravel y más.  
+🚀 Apasionado por las bases de datos y el desarrollo backend, me encanta crear soluciones eficientes y escalables.
 📫 Contáctame en: [LinkedIn](https://www.linkedin.com/in/tuusuario/) | [Twitter](https://twitter.com/tuusuario)  
 
 
@@ -57,7 +57,10 @@
 
 <br>
 
-## Proyectos *bombitas*
+## 🚀 Proyectos *bombitas*
+- [Proyecto 1: Nombre del Proyecto](https://github.com/tuusuario/proyecto1): Breve descripción.
+- [Proyecto 2: Nombre del Proyecto](https://github.com/tuusuario/proyecto2): Breve descripción.
+
 <br>
 
 ### 📊 GitHub Analytics
@@ -68,3 +71,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BERCHNARD10&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
