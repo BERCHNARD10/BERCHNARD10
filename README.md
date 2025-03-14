@@ -109,6 +109,20 @@ Breve descripción del proyecto y lo que hace.
 
 </div>
 
+## Proyecto 1: [Nombre del Proyecto](https://github.com/BERCHNARD10/UTHH_PRY)
+
+### Descripción
+Breve descripción del proyecto.
+
+### Screenshot
+![Screenshot](https://github.com/BERCHNARD10/UTHH_PRY/screenshot.png)  <!-- Reemplaza con la URL de tu captura de pantalla -->
+
+### Tecnologías utilizadas
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=white)  
+
 
 <br>
 
