@@ -1,4 +1,4 @@
-<h1 style="font-family: 'Arial', sans-serif; font-size: 40px; font-weight: bold; text-align: center; background: linear-gradient(45deg, #FF6F61, #FF3D39); color: white; padding: 20px; border-radius: 10px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
+<h1 style="font-family: 'Impact', sans-serif; font-size: 50px; font-weight: bold; text-align: center; background: linear-gradient(45deg, #ff0080, #ff8c00); color: transparent; -webkit-background-clip: text; padding: 20px; letter-spacing: 2px; text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5), 0 0 25px rgba(255, 255, 255, 0.8), 0 0 5px rgba(255, 255, 255, 0.8);">
   🚀 ¡Hola, soy Bernardino! 👋
 </h1>
 
