@@ -105,7 +105,7 @@
   <p><strong>Tienda Online de Chocolate</strong> es una tienda de comercio electrónico donde los usuarios pueden explorar una variedad de chocolates, realizar compras en línea y gestionar sus pedidos de forma sencilla.</p>
 
   <h4>Screenshot</h4>
-  <img src="https://github.com/BERCHNARD10/TiendaChocolate/screenshot.png" alt="Screenshot" style="max-width: 100%; border: 2px solid #ddd; border-radius: 10px;"/>
+  <img src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/Captura%20de%20pantalla%202023-03-19%20140914.png" alt="Screenshot" style="max-width: 100%; border: 2px solid #ddd; border-radius: 10px;"/>
 
   <h4>Tecnologías utilizadas</h4>
   <div style="text-align: center;">
