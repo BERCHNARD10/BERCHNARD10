@@ -1,4 +1,6 @@
-### 👋 ¡Hola! Soy [Bernardino]  
+<h1 style="font-family: 'Arial', sans-serif; font-size: 40px; font-weight: bold; text-align: center; background: linear-gradient(45deg, #FF6F61, #FF3D39); color: white; padding: 20px; border-radius: 10px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
+  🚀 ¡Hola, soy Bernardino! 👋
+</h1>
 
 💻 Desarrollador web con experiencia en React, Node.js, Laravel y más.  
 🚀 Apasionado por las bases de datos y el desarrollo backend, me encanta crear soluciones eficientes y escalables.
