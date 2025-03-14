@@ -6,7 +6,6 @@
 
 
 ### 🚀 Tecnologías y herramientas  
-
 <div style="max-width: 700px;">
   <!-- Frontend -->
   <h4>Frontend</h4>
@@ -27,13 +26,22 @@
     </div>
   </div>
 
-  <!-- Bases de datos -->
+  <!-- Bases de Datos -->
   <h4>Bases de Datos</h4>
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div style="flex: 1 1 45%; text-align: center;">
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL"/>
       <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white" alt="Oracle"/>
       <img src="https://img.shields.io/badge/-PL%2FSQL-F80000?style=flat&logo=Oracle&logoColor=white" alt="PL/SQL"/>
+    </div>
+  </div>
+
+  <!-- Móvil -->
+  <h4>Móvil</h4>
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <div style="flex: 1 1 45%; text-align: center;">
+      <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=React%20Native&logoColor=white" alt="React Native"/>
+      <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white" alt="Android Studio"/>
     </div>
   </div>
 
@@ -45,7 +53,6 @@
     </div>
   </div>
 </div>
-
 
 
 <br>
