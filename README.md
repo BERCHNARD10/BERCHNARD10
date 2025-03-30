@@ -2,21 +2,13 @@
 <h1 align="center"><b>🚀 ¡Hola, soy Bernardino! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-¿<!-- Descripción -->
+<!-- Descripción -->
 <p style="font-family: 'Arial', sans-serif; font-size: 20px; text-align: center; color: #333; line-height: 1.6; letter-spacing: 0.5px;">
   💻 <span style="font-weight: bold; color: #4CAF50;">Desarrollador web</span> con experiencia en 
   <span style="color: #61DAFB; font-weight: bold;">React</span>, 
   <span style="color: #339933; font-weight: bold;">Node.js</span>, 
   <span style="color: #EF4135; font-weight: bold;">Laravel</span> y más.<br>
   🚀 <span style="color: #FF6347; font-weight: bold;">Apasionado</span> por las bases de datos y el desarrollo backend, me encanta crear soluciones eficientes y escalables.<br>
-
-
-<!-- Imagen -->
-<p align="right">
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250"/>
-</p>
-
-  
   📫 <span style="font-weight: bold;">Contáctame en:</span> 
   <a href="https://www.linkedin.com/in/tuusuario/" style="text-decoration: none; color: #0077B5; font-weight: bold;">LinkedIn</a> | 
   <a href="https://twitter.com/tuusuario" style="text-decoration: none; color: #1DA1F2; font-weight: bold;">Twitter</a>
