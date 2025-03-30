@@ -133,7 +133,7 @@
     </td>
     <!-- Segunda columna: imagen única -->
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BERCHNARD10&langs_count=50&theme=algolia"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BERCHNARD10&layout=compact&langs_count=50&theme=algolia" />
        <!-- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BERCHNARD10&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>-->
     </td>
   </tr>
