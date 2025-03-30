@@ -126,13 +126,13 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BERCHNARD10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BERCHNARD10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
       <br></br>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BERCHNARD10&theme=algolia&hide_border=false" /> 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BERCHNARD10&theme=algolia&hide_border=false" /> 
     </td>
     <td width="50%" align="center">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BERCHNARD10&layout=compact&langs_count=8&theme=algolia"/>
-      </td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BERCHNARD10&layout=compact&langs_count=8&theme=algolia"/>
+    </td>
   </tr>
 </table>
 
