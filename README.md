@@ -122,7 +122,7 @@
 <!-- GitHub Analytics -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <!-- Primera caja: Dos imágenes apiladas verticalmente -->
   <div style="display: flex; flex-direction: column; gap: 10px;">
     <a href="https://github.com/BERCHNARD10">
@@ -140,6 +140,5 @@
     </a>
   </div>
 </div>
-
 
 
