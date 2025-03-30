@@ -134,25 +134,10 @@
     <!-- Segunda columna: imagen única -->
     <td align="center">
       <!-- Contenedor de lenguajes -->
-      <div class="languages-container">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BERCHNARD10&layout=compact&langs_count=50&theme=algolia" />
-      </div>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BERCHNARD10&layout=compact&langs_count=50&theme=algolia"  style="max-width: 100%;  />
     </td>
   </tr>
 </table>
-
-<style>
-  .languages-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    gap: 10px;
-    justify-items: center;
-  }
-  .languages-container img {
-    width: 100%; /* Ajusta el tamaño del gráfico si es necesario */
-  }
-</style>
-
 
 
 
