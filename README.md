@@ -20,6 +20,7 @@
 ### 🛠️ Tecnologías y herramientas
 <div style="max-width: 700px; margin: auto;">
   <!-- Frontend -->
+  
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white" alt="React" style="margin: 5px;"/>
