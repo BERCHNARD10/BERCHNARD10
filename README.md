@@ -122,9 +122,9 @@
 <!-- GitHub Analytics -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
-  <!-- Primera caja: Dos imágenes alineadas horizontalmente -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- Primera caja: Dos imágenes apiladas verticalmente -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
     <a href="https://github.com/BERCHNARD10">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BERCHNARD10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
@@ -133,7 +133,7 @@
     </a>
   </div>
 
-  <!-- Segunda caja: Una imagen centrada -->
+  <!-- Segunda caja: Imagen única -->
   <div>
     <a href="https://github.com/BERCHNARD10">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BERCHNARD10&layout=compact&langs_count=8&theme=algolia"/>
