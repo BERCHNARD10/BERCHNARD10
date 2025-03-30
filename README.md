@@ -60,8 +60,18 @@
 <br>
 
 ## 📜 Certificaciones <img src="https://media.giphy.com/media/l4FGDAxPQwU5ziGqI/giphy.gif" width="50"/>
-- 🎮 **[Certificación en Desarrollo de Videojuegos con Unity](https://www.domestika.org/es/certificates/tu-certificado)** – Domestika  
-- 🏆 **[Oracle PL/SQL](https://www.udemy.com/certificate/tu-certificado/)** – Udemy  
+### 🎮 Desarrollo de Videojuegos con Unity  
+📌 **Plataforma:** ![Domestika](https://img.shields.io/badge/Domestika-E74C3C?style=flat&logo=domestika&logoColor=white)  
+🛠 **Tecnologías:** ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  
+📜 **Certificación:** [Ver certificado](https://www.domestika.org/es/certificates/tu-certificado)  
+
+---
+
+### 🏆 Oracle Database Essentials  
+📌 **Plataforma:** ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white)  
+🛠 **Tecnologías:** ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)  
+📜 **Certificación:** [Ver certificado](https://www.udemy.com/certificate/tu-certificado/)  
+ 
 <br>
 
 <!-- Sección de Proyectos -->
