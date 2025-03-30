@@ -134,7 +134,7 @@
     <!-- Segunda columna: imagen única -->
     <td align="center">
       <!-- Contenedor de lenguajes -->
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BERCHNARD10&layout=compact&langs_count=50&theme=algolia"  style="max-width: auto;  />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BERCHNARD10&layout=compact&langs_count=50&theme=algolia"/>
     </td>
   </tr>
 </table>
