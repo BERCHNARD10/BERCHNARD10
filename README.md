@@ -125,7 +125,7 @@
 <p align="center">
 <a href="https://github.com/BERCHNARD10">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BERCHNARD10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BERCHNARD10&theme=algolia&hide_border=false" /> 
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BERCHNARD10&theme=algolia&hide_border=false" /> 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BERCHNARD10&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
