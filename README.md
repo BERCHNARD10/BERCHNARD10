@@ -21,7 +21,7 @@
 <div style="max-width: 700px; margin: auto;">
   <!-- Frontend -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="30">
+  <img  align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="30">
   <h4 style="font-size: 24px; font-weight: bold; color: #FF6347; margin: 0;">Frontend Development</h4>
 </div>
 
