@@ -132,9 +132,8 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=BERCHNARD10&theme=algolia&hide_border=false" />
     </td>
     <!-- Segunda columna: imagen única -->
-    <td align="center">
-      <!-- Contenedor de lenguajes -->
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BERCHNARD10&layout=compact&langs_count=50&theme=algolia"/>
+    <td width="50%" align="center">
+      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BERCHNARD10&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
     </td>
   </tr>
 </table>
