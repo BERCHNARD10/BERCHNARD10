@@ -4,25 +4,16 @@
 <img align="right" width=300px alt="Unicorn" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
 <!-- Sección principal con tabla -->
-<table align="center">
-  <tr>
-    <td align="left" width="60%">
-      <p>
-        💻 <strong style="color: #4CAF50;">Desarrollador web</strong> con experiencia en 
-        <span style="color: #61DAFB; font-weight: bold;">React</span>, 
-        <span style="color: #339933; font-weight: bold;">Node.js</span>, 
-        <span style="color: #EF4135; font-weight: bold;">Laravel</span> y más.<br><br>
-        🚀 <span style="color: #FF6347; font-weight: bold;">Apasionado</span> por las bases de datos y el desarrollo backend, me encanta crear soluciones eficientes y escalables.<br><br>
-        📫 <strong>Contáctame en:</strong> 
-        <a href="https://www.linkedin.com/in/tuusuario/" style="text-decoration: none; color: #0077B5; font-weight: bold;">LinkedIn</a> | 
-        <a href="https://twitter.com/tuusuario" style="text-decoration: none; color: #1DA1F2; font-weight: bold;">Twitter</a>
-      </p>
-    </td>
-    <td align="center" width="40%">
-      <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250"/>
-    </td>
-  </tr>
-</table>
+<p style="font-family: 'Arial', sans-serif; font-size: 20px; text-align: center; color: #333; line-height: 1.6; letter-spacing: 0.5px;">
+  💻 <span style="font-weight: bold; color: #4CAF50;">Desarrollador web</span> con experiencia en 
+  <span style="color: #61DAFB; font-weight: bold;">React</span>, 
+  <span style="color: #339933; font-weight: bold;">Node.js</span>, 
+  <span style="color: #EF4135; font-weight: bold;">Laravel</span> y más.<br>
+  🚀 <span style="color: #FF6347; font-weight: bold;">Apasionado</span> por las bases de datos y el desarrollo backend, me encanta crear soluciones eficientes y escalables.<br>
+  📫 <span style="font-weight: bold;">Contáctame en:</span> 
+  <a href="https://www.linkedin.com/in/tuusuario/" style="text-decoration: none; color: #0077B5; font-weight: bold;">LinkedIn</a> | 
+  <a href="https://twitter.com/tuusuario" style="text-decoration: none; color: #1DA1F2; font-weight: bold;">Twitter</a>
+</p>
 
 
 <!-- Sección de Tecnologías -->
