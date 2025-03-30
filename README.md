@@ -18,7 +18,6 @@
         <a href="https://twitter.com/tuusuario" style="text-decoration: none; color: #1DA1F2; font-weight: bold;">Twitter</a>
       </p>
     </td>
-    
     <!-- Columna de imagen -->
     <td>
       <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
