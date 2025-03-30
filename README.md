@@ -122,8 +122,9 @@
 <!-- GitHub Analytics -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <!-- Primera caja: Dos imágenes apiladas verticalmente -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
     <a href="https://github.com/BERCHNARD10">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BERCHNARD10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
@@ -131,10 +132,13 @@
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BERCHNARD10&theme=algolia&hide_border=false" /> 
     </a>
   </div>
-  <div style="margin-top: 10px;">
+
+  <!-- Segunda caja: Una imagen -->
+  <div>
     <a href="https://github.com/BERCHNARD10">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BERCHNARD10&layout=compact&langs_count=8&theme=algolia"/>
     </a>
   </div>
 </div>
+
 
