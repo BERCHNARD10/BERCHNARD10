@@ -20,7 +20,7 @@
 ### 🛠️ Tecnologías y herramientas
 <div style="max-width: 700px; margin: auto;">
   <!-- Frontend -->
-  <h4 style="font-size: 24px; font-weight: bold; color: #4CAF50; text-align: center;">Frontend</h4>
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white" alt="React" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript" style="margin: 5px;"/>
