@@ -5,7 +5,7 @@
 <!-- Sección principal con tabla -->
 <table align="center">
   <tr>
-    <td>
+    <td align="left" width="60%">
       <p>
         💻 <strong style="color: #4CAF50;">Desarrollador web</strong> con experiencia en 
         <span style="color: #61DAFB; font-weight: bold;">React</span>, 
@@ -17,11 +17,12 @@
         <a href="https://twitter.com/tuusuario" style="text-decoration: none; color: #1DA1F2; font-weight: bold;">Twitter</a>
       </p>
     </td>
-    <td>
+    <td align="center" width="40%">
       <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250"/>
     </td>
   </tr>
 </table>
+
 
 <!-- Sección de Tecnologías -->
 ### 🛠️ Tecnologías y herramientas
