@@ -3,31 +3,25 @@
 
 
 <!-- Sección principal con tabla -->
-<div align="center">
-
-  <!-- Contenedor de dos columnas -->
-  <div style="display: inline-block; text-align: left; max-width: 500px; vertical-align: middle;">
-    <p>
-      💻 <strong style="color: #4CAF50;">Desarrollador web</strong> con experiencia en 
-      <span style="color: #61DAFB; font-weight: bold;">React</span>, 
-      <span style="color: #339933; font-weight: bold;">Node.js</span>, 
-      <span style="color: #EF4135; font-weight: bold;">Laravel</span> y más.<br><br>
-      🚀 <span style="color: #FF6347; font-weight: bold;">Apasionado</span> por las bases de datos y el desarrollo backend, me encanta crear soluciones eficientes y escalables.<br><br>
-      📫 <strong>Contáctame en:</strong> 
-      <a href="https://www.linkedin.com/in/tuusuario/" style="text-decoration: none; color: #0077B5; font-weight: bold;">LinkedIn</a> | 
-      <a href="https://twitter.com/tuusuario" style="text-decoration: none; color: #1DA1F2; font-weight: bold;">Twitter</a>
-    </p>
-  </div>
-
-  <!-- Imagen al lado derecho -->
-  <div style="display: inline-block; vertical-align: middle; margin-left: 20px;">
-    <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250"/>
-  </div>
-
-</div>
-
-
-
+<table align="center">
+  <tr>
+    <td>
+      <p>
+        💻 <strong style="color: #4CAF50;">Desarrollador web</strong> con experiencia en 
+        <span style="color: #61DAFB; font-weight: bold;">React</span>, 
+        <span style="color: #339933; font-weight: bold;">Node.js</span>, 
+        <span style="color: #EF4135; font-weight: bold;">Laravel</span> y más.<br><br>
+        🚀 <span style="color: #FF6347; font-weight: bold;">Apasionado</span> por las bases de datos y el desarrollo backend, me encanta crear soluciones eficientes y escalables.<br><br>
+        📫 <strong>Contáctame en:</strong> 
+        <a href="https://www.linkedin.com/in/tuusuario/" style="text-decoration: none; color: #0077B5; font-weight: bold;">LinkedIn</a> | 
+        <a href="https://twitter.com/tuusuario" style="text-decoration: none; color: #1DA1F2; font-weight: bold;">Twitter</a>
+      </p>
+    </td>
+    <td>
+      <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Sección de Tecnologías -->
 ### 🛠️ Tecnologías y herramientas
