@@ -123,18 +123,18 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
 
 
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BERCHNARD10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <br></br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BERCHNARD10&theme=algolia&hide_border=false" /> 
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BERCHNARD10&layout=compact&langs_count=8&theme=algolia"/>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <!-- Primera caja: Dos imágenes apiladas verticalmente -->
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BERCHNARD10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BERCHNARD10&theme=algolia&hide_border=false" /> 
+  </div>
+
+  <!-- Segunda caja: Imagen única -->
+  <div>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BERCHNARD10&layout=compact&langs_count=8&theme=algolia"/>
+  </div>
+</div>
 
 
 
