@@ -75,7 +75,7 @@
 
 ---
 
-### 🏆 Oracle Database Essentials  
+### 🏆 Oracle PL/SQL 
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/></td>
