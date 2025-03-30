@@ -3,11 +3,13 @@
 
 
 <!-- Sección principal con tabla -->
-<table>
-  <tr>
-    <!-- Columna de descripción -->
-    <td>
-      <p style="font-family: 'Arial', sans-serif; font-size: 20px; text-align: left; color: #333; line-height: 1.6; letter-spacing: 0.5px;">
+<div align="center">
+
+  <!-- Contenedor principal -->
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <!-- Descripción -->
+    <div style="text-align: left; max-width: 500px;">
+      <p style="font-family: Arial, sans-serif; font-size: 18px; color: #333; line-height: 1.6;">
         💻 <span style="font-weight: bold; color: #4CAF50;">Desarrollador web</span> con experiencia en 
         <span style="color: #61DAFB; font-weight: bold;">React</span>, 
         <span style="color: #339933; font-weight: bold;">Node.js</span>, 
@@ -17,13 +19,14 @@
         <a href="https://www.linkedin.com/in/tuusuario/" style="text-decoration: none; color: #0077B5; font-weight: bold;">LinkedIn</a> | 
         <a href="https://twitter.com/tuusuario" style="text-decoration: none; color: #1DA1F2; font-weight: bold;">Twitter</a>
       </p>
-    </td>
-    <!-- Columna de imagen -->
-    <td>
+    </div>
+    <!-- Imagen -->
+    <div style="margin-left: 20px;">
       <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+</div>
+
 
 
 <!-- Sección de Tecnologías -->
