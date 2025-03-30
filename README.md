@@ -60,6 +60,8 @@
 <br>
 
 ## 📜 Certificaciones <img src="https://media.giphy.com/media/l4FGDAxPQwU5ziGqI/giphy.gif" width="50"/>
+- 🎮 **[Certificación en Desarrollo de Videojuegos con Unity](https://www.domestika.org/es/certificates/tu-certificado)** – Domestika  
+- 🏆 **[Oracle PL/SQL](https://www.udemy.com/certificate/tu-certificado/)** – Udemy  
 <br>
 
 <!-- Sección de Proyectos -->
