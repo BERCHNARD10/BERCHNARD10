@@ -1,7 +1,6 @@
 <!-- Título principal con estilo llamativo -->
-<h1 style="font-family: 'Impact', sans-serif; font-size: 50px; font-weight: bold; text-align: center; background: linear-gradient(45deg, #ff0080, #ff8c00); color: transparent; -webkit-background-clip: text; padding: 20px; letter-spacing: 2px; text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5), 0 0 25px rgba(255, 255, 255, 0.8), 0 0 5px rgba(255, 255, 255, 0.8);">
-  🚀 ¡Hola, soy Bernardino! 👋
-</h1>
+<h1 align="center"><b>🚀 ¡Hola, soy Bernardino! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 
 <!-- Descripción -->
 <p style="font-family: 'Arial', sans-serif; font-size: 20px; text-align: center; color: #333; line-height: 1.6; letter-spacing: 0.5px;">
