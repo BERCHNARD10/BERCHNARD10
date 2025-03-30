@@ -58,9 +58,8 @@
 </div>
 
 <br>
-## 📜 Certificaciones  
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTMxZjJkZmZkYjJhNGQ2ZjI2N2FhYzljNjE3M2YyZTcyMjJjNDgxNyZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif" width="150" align="right"/>  
+## 📜 Certificaciones <img src="https://media.giphy.com/media/l4FGDAxPQwU5ziGqI/giphy.gif" width="50"/>
 <br>
 
 <!-- Sección de Proyectos -->
