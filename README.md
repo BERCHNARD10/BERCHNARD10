@@ -43,7 +43,10 @@
   </div>
 
   <!-- Bases de Datos -->
-  <h4 style="font-size: 24px; font-weight: bold; color: #4CAF50; text-align: center;">Bases de Datos</h4>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img  align="left" src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/database.gif" width="30">
+    <h4 style="font-size: 24px; font-weight: bold; color: #FF6347; margin: 0;">Bases de Datos</h4>
+  </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white" alt="Oracle" style="margin: 5px;"/>
@@ -51,13 +54,20 @@
   </div>
 
   <!-- Móvil -->
-  <h4 style="font-size: 24px; font-weight: bold; color: #1DA1F2; text-align: center;">Móvil</h4>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img  align="left" src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/movil.gif" width="30">
+    <h4 style="font-size: 24px; font-weight: bold; color: #FF6347; margin: 0;">Movil</h4>
+  </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=React%20Native&logoColor=white" alt="React Native" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white" alt="Android Studio" style="margin: 5px;"/>
   </div>
 
   <!-- Otros -->
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img  align="left" src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/entorno.gif" width="30">
+    <h4 style="font-size: 24px; font-weight: bold; color: #FF6347; margin: 0;">Entornos de desarrollo</h4>
+  </div>
   <h4 style="font-size: 24px; font-weight: bold; color: #FF6347; text-align: center;">Otros</h4>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=white" alt="Unity" style="margin: 5px;"/>
