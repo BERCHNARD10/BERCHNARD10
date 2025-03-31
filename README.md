@@ -32,7 +32,10 @@
   </div>
 
   <!-- Backend -->
-  <h4 style="font-size: 24px; font-weight: bold; color: #FF6347; text-align: center;">Backend</h4>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img  align="left" src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/backend.gif" width="30">
+    <h4 style="font-size: 24px; font-weight: bold; color: #FF6347; margin: 0;">Backend</h4>
+  </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-Laravel-EF4135?style=flat&logo=Laravel&logoColor=white" alt="Laravel" style="margin: 5px;"/>
