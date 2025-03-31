@@ -68,7 +68,6 @@
     <img  align="left" src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/entorno.gif" width="30">
     <h4 style="font-size: 24px; font-weight: bold; color: #FF6347; margin: 0;">Entornos de desarrollo</h4>
   </div>
-  <h4 style="font-size: 24px; font-weight: bold; color: #FF6347; text-align: center;">Otros</h4>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=white" alt="Unity" style="margin: 5px;"/>
   </div>
