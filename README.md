@@ -44,9 +44,7 @@
 
   <!-- Bases de Datos -->
   <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <div style="display: inline-block; margin-left: 6px; margin-right: 7px;">
-      <img align="left" src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/database.gif" width="22">
-    </div>
+&nbsp; <img align="left" src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/database.gif" width="22"> &nbsp;
     <h4 style="font-size: 24px; font-weight: bold; color: #FF6347; margin: 0;">Bases de Datos</h4>
   </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
