@@ -63,6 +63,16 @@
     <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white" alt="Android Studio" style="margin: 5px;"/>
   </div>
 
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img align="left" src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/code.gif" width="30">
+    <h4 style="font-size: 24px; font-weight: bold; color: #4682B4; margin: 0;">Entornos de Desarrollo</h4>
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white" alt="Visual Studio" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white" alt="VS Code" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=Android-Studio&logoColor=white" alt="Android Studio" style="margin: 5px;"/>
+  </div>
+
   <!-- Otros -->
   <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
     <img  align="left" src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/game.gif" width="30">
