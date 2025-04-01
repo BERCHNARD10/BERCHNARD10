@@ -45,7 +45,7 @@
   <!-- Bases de Datos -->
   <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
     <img align="left" src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/database.gif" width="22">
-    <h4 style="font-size: 24px; font-weight: bold; color: #FF6347; margin-rigth: 3px;"> Bases de Datos</h4>
+    <h4 style="font-size: 24px; font-weight: bold; color: #FF6347; margin-left: 5px;"> Bases de Datos</h4>
   </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" style="margin: 5px;"/>
