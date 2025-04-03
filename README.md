@@ -11,8 +11,11 @@
   <span style="color: #EF4135; font-weight: bold;">Laravel</span> y más.<br>
   🚀 <span style="color: #FF6347; font-weight: bold;">Apasionado</span> por las bases de datos y el desarrollo backend, me encanta crear soluciones eficientes y escalables.<br>
   📫 <span style="font-weight: bold;">Contáctame en:</span> 
-  <a href="https://www.linkedin.com/in/tuusuario/" style="text-decoration: none; color: #0077B5; font-weight: bold;">LinkedIn</a> | 
-  <a href="https://twitter.com/tuusuario" style="text-decoration: none; color: #1DA1F2; font-weight: bold;">Twitter</a>
+  <a href="mailto:bernardinoalvaradohernandez@gmail.com" style="text-decoration: none; color: #D14836; font-weight: bold;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Logo.svg" alt="Gmail" width="20" style="vertical-align: middle;"> Gmail
+  </a>
+  <!--<a href="https://www.linkedin.com/in/tuusuario/" style="text-decoration: none; color: #0077B5; font-weight: bold;">LinkedIn</a> | 
+  <a href="https://twitter.com/tuusuario" style="text-decoration: none; color: #1DA1F2; font-weight: bold;">Twitter</a>-->
 </p>
 
 
