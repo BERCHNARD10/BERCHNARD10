@@ -158,7 +158,7 @@
   </div>
 </div>
 
-### Proyecto 3: [Tienda Online de Chocolate](https://github.com/BERCHNARD10/TiendaChocolate)
+### Proyecto 3: [Tienda Online de Chocolate](https://github.com/BERCHNARD10/LaravelMarket)
 
 <div style="text-align: center; padding: 10px;">
   <h4>Descripción</h4>
