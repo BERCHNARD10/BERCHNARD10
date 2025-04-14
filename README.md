@@ -122,8 +122,9 @@
 
 ### Proyecto 1: [Plataforma de Gestión Educativa](https://github.com/BERCHNARD10/UTHH_PRY)
   <div align="center">
-    [![GitHub](https://img.shields.io/badge/🔗_Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BERCHNARD10/UTHH_PRY)  
-    [![Demo](https://img.shields.io/badge/🌐_Sitio_Web-Demo_en_Vivo-2ea44f?style=for-the-badge)](https://ejemplo-demo.com) <!-- Reemplaza con tu enlace -->
+  
+  [![GitHub](https://img.shields.io/badge/🔗_Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BERCHNARD10/UTHH_PRY)  
+  [![Demo](https://img.shields.io/badge/🌐_Sitio_Web-Demo_en_Vivo-2ea44f?style=for-the-badge)](https://ejemplo-demo.com) <!-- Reemplaza con tu enlace -->
   </div>
   <div style="text-align: center; padding: 10px;">
     <h4>Descripción</h4>
