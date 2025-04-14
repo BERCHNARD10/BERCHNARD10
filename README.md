@@ -162,45 +162,76 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" />
 </p>
 
+## 🛡️ Proyecto 2: [Cazadores de Sombras](https://github.com/BERCHNARD10/CazadoresDeSombras)
 
-### Proyecto 2: [Cazadores de Sombras](https://github.com/BERCHNARD10/CazadoresDeSombras)
+<div align="center">
+  
+[![🔗 Repositorio en GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BERCHNARD10/CazadoresDeSombras)
+[![🌐 Demo en Vivo](https://img.shields.io/badge/Demo-Cazadores%20de%20Sombras-blue?style=for-the-badge&logo=unity)](https://cazadores-de-sombras.000webhostapp.com/)
 
-<div style="text-align: center; padding: 10px;">
-  <h4>Descripción</h4>
-  <p><strong>Cazadores de Sombras</strong> es un juego medieval en el que los jugadores se adentran en mundos oscuros y desafiantes, enfrentándose a criaturas míticas y mejorando sus habilidades. Desarrollado con Unity y C#, el juego ofrece una experiencia inmersiva y dinámica. La integración con el SDK de Android permite que el juego sea jugado en dispositivos móviles, brindando una experiencia interactiva y entretenida. Además, se utiliza PHP en el backend para gestionar usuarios y almacenar datos del juego.</p>
-
-  <h4>Screenshot</h4>
-  <img src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/Captura%20de%20pantalla%202025-03-14%20131954.png" alt="Screenshot" style="max-width: 100%; border: 2px solid #ddd; border-radius: 10px;"/>
-
-  <h4>Tecnologías utilizadas</h4>
-  <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white" alt="PHP" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=white" alt="Unity" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white" alt="Android Studio" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=C%23&logoColor=white" alt="C#" style="margin: 5px;"/>
-  </div>
 </div>
 
-### Proyecto 3: [Tienda Online de Chocolate](https://github.com/BERCHNARD10/LaravelMarket)
+---
 
-<div style="text-align: center; padding: 10px;">
-  <h4>Descripción</h4>
-  <p><strong>Tienda Online de Chocolate</strong> es una tienda de comercio electrónico donde los usuarios pueden explorar una variedad de chocolates, realizar compras en línea y gestionar sus pedidos de forma sencilla.</p>
+### 📝 Descripción
 
-  <h4>Screenshot</h4>
-  <img src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/Captura%20de%20pantalla%202023-03-19%20140914.png" alt="Screenshot" style="max-width: 100%; border: 2px solid #ddd; border-radius: 10px;"/>
+**Cazadores de Sombras** es un videojuego medieval donde los jugadores exploran mundos oscuros y peligrosos, enfrentándose a criaturas míticas mientras mejoran sus habilidades.  
+Desarrollado con **Unity** y **C#**, el juego ofrece una experiencia inmersiva para dispositivos móviles gracias al SDK de Android. Además, utiliza **PHP** en el backend para gestionar usuarios y almacenar datos del juego.
 
-  <h4>Tecnologías utilizadas</h4>
-  <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/-Laravel-F6533A?style=flat&logo=Laravel&logoColor=white" alt="Laravel" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white" alt="Bootstrap" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript" style="margin: 5px;"/>
-  </div>
+---
+
+### 🖼️ Captura de Pantalla
+
+<p align="center">
+  <img src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/Captura%20de%20pantalla%202025-03-14%20131954.png" alt="Captura del juego Cazadores de Sombras" width="80%" style="border-radius: 10px;" />
+</p>
+
+---
+
+### 🛠️ Tecnologías Utilizadas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=C%23&logoColor=white" alt="C#" />
+</p>
+
+## 🍫 Proyecto 3: [Tienda Online de Chocolate](https://github.com/BERCHNARD10/LaravelMarket)
+
+<div align="center">
+  
+[![🔗 Repositorio en GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BERCHNARD10/LaravelMarket)
+[![🌐 Demo en Vivo](https://img.shields.io/badge/Demo-Tienda%20de%20Chocolate-brown?style=for-the-badge&logo=laravel)](https://laravelmarket.000webhostapp.com/)
+
 </div>
 
+---
 
-<br>
+### 📝 Descripción
+
+**Tienda Online de Chocolate** es una tienda de comercio electrónico donde los usuarios pueden explorar productos, realizar compras y gestionar sus pedidos de forma sencilla.
+
+---
+
+### 🖼️ Captura de Pantalla
+
+<p align="center">
+  <img src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/Captura%20de%20pantalla%202023-03-19%20140914.png" alt="Captura de la tienda online de chocolates" width="80%" style="border-radius: 10px;" />
+</p>
+
+---
+
+### 🛠️ Tecnologías Utilizadas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Laravel-F6533A?style=flat&logo=Laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript" />
+</p>
+
+---
 
 <!-- GitHub Analytics -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
