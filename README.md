@@ -1,21 +1,18 @@
-<!-- Título principal con estilo llamativo -->
-<h1 align="center"><b>🚀 ¡Hola, soy Bernardino! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">🚀 ¡Hola, soy Bernardino! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+<p align="center">
+  💻 <strong>Desarrollador web</strong> con experiencia en 
+  <strong style="color:#61DAFB;">React</strong>, 
+  <strong style="color:#339933;">Node.js</strong>, 
+  <strong style="color:#EF4135;">Laravel</strong> y más.<br>
+  🚀 Apasionado por las bases de datos y el desarrollo backend, me encanta crear soluciones eficientes y escalables.
+</p>
 
-<!-- Sección principal con tabla -->
-<p style="font-family: 'Arial', sans-serif; font-size: 20px; text-align: center; color: #333; line-height: 1.6; letter-spacing: 0.5px;">
-  💻 <span style="font-weight: bold; color: #4CAF50;">Desarrollador web</span> con experiencia en 
-  <span style="color: #61DAFB; font-weight: bold;">React</span>, 
-  <span style="color: #339933; font-weight: bold;">Node.js</span>, 
-  <span style="color: #EF4135; font-weight: bold;">Laravel</span> y más.<br>
-  🚀 <span style="color: #FF6347; font-weight: bold;">Apasionado</span> por las bases de datos y el desarrollo backend, me encanta crear soluciones eficientes y escalables.<br>
-  📫 <span style="font-weight: bold;">Contáctame en:</span> 
-  <a href="mailto:bernardinoalvaradohernandez@gmail.com" style="text-decoration: none; color: #D14836; font-weight: bold;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="margin: 5px;"/>
+<p align="center">
+  📫 <strong>Contáctame en:</strong><br>
+  <a href="mailto:bernardinoalvaradohernandez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <!--<a href="https://www.linkedin.com/in/tuusuario/" style="text-decoration: none; color: #0077B5; font-weight: bold;">LinkedIn</a> | 
-  <a href="https://twitter.com/tuusuario" style="text-decoration: none; color: #1DA1F2; font-weight: bold;">Twitter</a>-->
 </p>
 
 
