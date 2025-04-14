@@ -126,7 +126,7 @@
 <div align="center">
   
 [![🔗 Repositorio en GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BERCHNARD10/UTHH_PRY)
-[![🌐 Demo en Vivo](https://img.shields.io/badge/Sitio_Web-Demo_en_Vivo-2ea44f?style=for-the-badge)](https://ejemplo-demo.com) <!-- Cambiar el enlace -->
+[![🌐 Demo en Vivo](https://img.shields.io/badge/Sitio_Web-Demo_en_Vivo-2ea44f?style=for-the-badge)](http://nexus.bernard.cod3developer.com/) <!-- Cambiar el enlace -->
 
 </div>
 
@@ -168,7 +168,7 @@
 <div align="center">
   
 [![🔗 Repositorio en GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BERCHNARD10/CazadoresDeSombras)
-[![🌐 Demo en Vivo](https://img.shields.io/badge/Demo-Cazadores%20de%20Sombras-blue?style=for-the-badge&logo=unity)](https://cazadores-de-sombras.000webhostapp.com/)
+[![🌐 Demo en Vivo](https://img.shields.io/badge/Demo-Cazadores%20de%20Sombras-blue?style=for-the-badge&logo=unity)](http://cazadores-de-sombras.bernard.cod3developer.com/)
 
 </div>
 
@@ -203,7 +203,7 @@ Desarrollado con **Unity** y **C#**, el juego ofrece una experiencia inmersiva p
 <div align="center">
   
 [![🔗 Repositorio en GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BERCHNARD10/LaravelMarket)
-[![🌐 Demo en Vivo](https://img.shields.io/badge/Demo-Tienda%20de%20Chocolate-brown?style=for-the-badge&logo=laravel)](https://laravelmarket.000webhostapp.com/)
+[![🌐 Demo en Vivo](https://img.shields.io/badge/Demo-Tienda%20de%20Chocolate-brown?style=for-the-badge&logo=laravel)](http://laravelmarket.bernard.cod3developer.com/)
 
 </div>
 
