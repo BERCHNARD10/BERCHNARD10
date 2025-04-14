@@ -121,6 +121,10 @@
 ## 💣 Proyectos *bombitas* 
 
 ### Proyecto 1: [Plataforma de Gestión Educativa](https://github.com/BERCHNARD10/UTHH_PRY)
+  <div align="center">
+    [![GitHub](https://img.shields.io/badge/🔗_Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BERCHNARD10/UTHH_PRY)  
+    [![Demo](https://img.shields.io/badge/🌐_Sitio_Web-Demo_en_Vivo-2ea44f?style=for-the-badge)](https://ejemplo-demo.com) <!-- Reemplaza con tu enlace -->
+  </div>
   <div style="text-align: center; padding: 10px;">
     <h4>Descripción</h4>
     <p>El proyecto UTHH_PRY es una plataforma de educación educativa diseñada para facilitar la creación y gestión de aulas virtuales, permitiendo a los docentes realizar actividades como la creación de materias, gestión de alumnos, asignación de tareas, y la calificación de los estudiantes. Además, incluye la funcionalidad única de generar un concentrado de calificaciones, lo que agiliza el seguimiento y evaluación de los estudiantes..</p>
