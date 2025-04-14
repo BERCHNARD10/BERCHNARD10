@@ -120,30 +120,48 @@
 <!-- Sección de Proyectos -->
 ## 💣 Proyectos *bombitas* 
 
-### Proyecto 1: [Plataforma de Gestión Educativa](https://github.com/BERCHNARD10/UTHH_PRY)
-  <div align="center">
+## 🎓 Proyecto 1: [Plataforma de Gestión Educativa](https://github.com/BERCHNARD10/UTHH_PRY)
+
+<div align="center">
   
-  [![GitHub](https://img.shields.io/badge/🔗_Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BERCHNARD10/UTHH_PRY)  
-  [![Demo](https://img.shields.io/badge/🌐_Sitio_Web-Demo_en_Vivo-2ea44f?style=for-the-badge)](https://ejemplo-demo.com) <!-- Reemplaza con tu enlace -->
-  </div>
-  <div style="text-align: center; padding: 10px;">
-    <h4>Descripción</h4>
-    <p>El proyecto UTHH_PRY es una plataforma de educación educativa diseñada para facilitar la creación y gestión de aulas virtuales, permitiendo a los docentes realizar actividades como la creación de materias, gestión de alumnos, asignación de tareas, y la calificación de los estudiantes. Además, incluye la funcionalidad única de generar un concentrado de calificaciones, lo que agiliza el seguimiento y evaluación de los estudiantes..</p>
+[![🔗 Repositorio en GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BERCHNARD10/UTHH_PRY)
+[![🌐 Demo en Vivo](https://img.shields.io/badge/Sitio_Web-Demo_en_Vivo-2ea44f?style=for-the-badge)](https://ejemplo-demo.com) <!-- Cambiar el enlace -->
 
-  <h4>Screenshot</h4>
-  <img src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/Captura%20de%20pantalla%202025-03-14%20133652.png" alt="Screenshot" style="max-width: 100%; border: 2px solid #ddd; border-radius: 10px;"/>
-
-  <h4>Tecnologías utilizadas</h4>
-  <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white" alt="React" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white" alt="Vite" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" alt="Firebase" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=white" alt="Tailwind CSS" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white" alt="PHP" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" style="margin: 5px;"/>
-  </div>
 </div>
+
+---
+
+### 📝 Descripción
+
+**UTHH_PRY** es una plataforma educativa para la gestión de aulas virtuales. Permite a los docentes:
+
+- Crear materias.
+- Gestionar alumnos.
+- Asignar tareas y calificaciones.
+- Generar un concentrado de calificaciones automáticamente.
+
+---
+
+### 🖼️ Captura de Pantalla
+
+<p align="center">
+  <img src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/Captura%20de%20pantalla%202025-03-14%20133652.png" alt="Captura del proyecto" width="80%" style="border-radius: 10px;" />
+</p>
+
+---
+
+### 🛠️ Tecnologías Utilizadas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" />
+</p>
+
 
 ### Proyecto 2: [Cazadores de Sombras](https://github.com/BERCHNARD10/CazadoresDeSombras)
 
