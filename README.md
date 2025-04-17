@@ -126,7 +126,7 @@
 <div align="center">
   
 [![🔗 Repositorio en GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BERCHNARD10/UTHH_PRY)
-[![🌐 Demo en Vivo](https://img.shields.io/badge/Sitio_Web-Demo_en_Vivo-2ea44f?style=for-the-badge)](http://nexus.bernard.cod3developer.com/) <!-- Cambiar el enlace -->
+[![🌐 Demo en Vivo](https://img.shields.io/badge/Sitio_Web-Demo_en_Vivo-2ea44f?style=for-the-badge)](https://uthh-pry-lkry.vercel.app/) <!-- Cambiar el enlace -->
 
 </div>
 
