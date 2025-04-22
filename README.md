@@ -168,7 +168,7 @@
 <div align="center">
   
 [![🔗 Repositorio en GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BERCHNARD10/CazadoresDeSombras)
-[![🌐 Demo en Vivo](https://img.shields.io/badge/Demo-Cazadores%20de%20Sombras-blue?style=for-the-badge&logo=unity)](http://cazadores-de-sombras.bernard.cod3developer.com/)
+[![🌐 Demo en Vivo](https://img.shields.io/badge/Demo-Cazadores%20de%20Sombras-blue?style=for-the-badge&logo=unity)](https://bernard.cod3developer.com/CazadoresDeSombras/)
 
 </div>
 
