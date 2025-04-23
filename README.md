@@ -163,7 +163,7 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" />
 </p>
 
-## 🛡️ Proyecto 2: [Cazadores de Sombras](https://github.com/BERCHNARD10/CazadoresDeSombras)
+## 🛡️ Proyecto 2: [Code Legends](https://github.com/BERCHNARD10/CazadoresDeSombras)
 
 <div align="center">
   
@@ -178,7 +178,7 @@
 
 ### 📝 Descripción
 
-**Cazadores de Sombras** es un videojuego medieval donde los jugadores exploran mundos oscuros y peligrosos, enfrentándose a criaturas míticas mientras mejoran sus habilidades.  
+**Code Legends** es un videojuego medieval donde los jugadores exploran mundos oscuros y peligrosos, enfrentándose a criaturas míticas mientras mejoran sus habilidades.  
 Desarrollado con **Unity** y **C#**, el juego ofrece una experiencia inmersiva para dispositivos móviles gracias al SDK de Android. Además, utiliza **PHP** en el backend para gestionar usuarios y almacenar datos del juego.
 
 ---
