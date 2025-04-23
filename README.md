@@ -186,7 +186,7 @@ Desarrollado con **Unity** y **C#**, el juego ofrece una experiencia inmersiva p
 ### 🖼️ Captura de Pantalla
 
 <p align="center">
-  <img src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/Captura%20de%20pantalla%202025-03-14%20131954.png" alt="Captura del juego Cazadores de Sombras" width="80%" style="border-radius: 10px;" />
+  <img src="https://github.com/BERCHNARD10/BERCHNARD10/blob/main/CodeLegend.png" alt="Captura del juego Cazadores de Sombras" width="80%" style="border-radius: 10px;" />
 </p>
 
 ---
