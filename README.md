@@ -169,7 +169,7 @@
   
 [![🔗 Repositorio en GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BERCHNARD10/CazadoresDeSombras)
 [![🌐 Versión Web](https://img.shields.io/badge/Jugar%20en%20Web-WebGL-blue?style=for-the-badge&logo=unity)](https://bernard.cod3developer.com/CazadoresDeSombras/)
-[![💻 Descargar PC](https://img.shields.io/badge/Descargar-PC-lightgrey?style=for-the-badge&logo=windows)](https://github.com/BERCHNARD10/CazadoresDeSombras/tree/main/builds/PC)
+[![💻 Descargar PC](https://img.shields.io/badge/Descargar-PC-lightgrey?style=for-the-badge&logo=windows)](https://github.com/BERCHNARD10/BERCHNARD10/blob/main/CodeLegendsPC.rar)
 [![📱 Descargar Móvil](https://img.shields.io/badge/Descargar-Android-success?style=for-the-badge&logo=android)](https://github.com/BERCHNARD10/CazadoresDeSombras/tree/main/builds/Android)
 
 </div>
