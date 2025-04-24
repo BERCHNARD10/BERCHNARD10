@@ -111,7 +111,7 @@
     <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>  
         <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/></td>
-    <td><a href="https://www.udemy.com/certificate/tu-certificado/">
+    <td><a href="https://www.udemy.com/certificate/UC-6691f20d-e309-46fc-8be8-afb0ea5ad9f5/">
       <img src="https://img.shields.io/badge/Ver%20Certificado-blue?style=for-the-badge"/>
     </a></td>
   </tr>
