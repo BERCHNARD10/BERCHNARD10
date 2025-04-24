@@ -116,6 +116,7 @@
     </a></td>
   </tr>
 </table>
+      <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-6691f20d-e309-46fc-8be8-afb0ea5ad9f5.jpg"/>
 <br>
 
 <!-- Sección de Proyectos -->
